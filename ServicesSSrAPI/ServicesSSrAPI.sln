@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32616.157
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ServicesSSrAPI", "ServicesSSrAPI.csproj", "{38350E5F-F0E1-423E-808E-F019600E3194}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DB", "..\DB\DB.csproj", "{1AB4BA8C-99E6-46EB-9890-1AECF1769162}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{38350E5F-F0E1-423E-808E-F019600E3194}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{38350E5F-F0E1-423E-808E-F019600E3194}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{38350E5F-F0E1-423E-808E-F019600E3194}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{38350E5F-F0E1-423E-808E-F019600E3194}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1AB4BA8C-99E6-46EB-9890-1AECF1769162}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1AB4BA8C-99E6-46EB-9890-1AECF1769162}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1AB4BA8C-99E6-46EB-9890-1AECF1769162}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1AB4BA8C-99E6-46EB-9890-1AECF1769162}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0C3637B4-EB6E-41DE-B9B9-473599454586}
+	EndGlobalSection
+EndGlobal
